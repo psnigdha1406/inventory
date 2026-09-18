@@ -1,5 +1,5 @@
 # inventory
-# INVENTORY_STRUCTURE_V3 — README
+# INVENTORY_STRUCTURE_V3
 
 This workbook is a **database design worksheet** for an Inventory Management System (with a second, smaller Employee schema exercise on the side). It lays out the tables, fields, keys, and constraints, and lists the SQL queries/functions/procedures/triggers to be written against that schema. It looks like coursework/practice material for a DBMS (Oracle/SQL) assignment rather than a live database export.
 
